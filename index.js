@@ -1,0 +1,2 @@
+displayCurrentWeather("Bucuresti");
+
